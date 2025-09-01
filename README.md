@@ -8,7 +8,7 @@ Desenvolvedor Full-Stack em formação, atualmente cursando **Análise e Desenvo
 
 - **Nome:** Felippe Adriel Cesar Raia  
 - **Localização:** Recife, Pernambuco – Brasil  
-- **Formação:** Tecnólogo em **ADS** (Análise e Desenvolvimento de Sistemas), SENAC-PE (2024–2026) :contentReference[oaicite:8]{index=8}  
+- **Formação:** Tecnólogo em **ADS** (Análise e Desenvolvimento de Sistemas), SENAC-PE (2024–2026)  
 - **Contato:**  
   - ✉️ felippeadriel46@gmail.com  
   - 🔗 [LinkedIn](https://www.linkedin.com/in/felippe-adriel-232527163/)  
