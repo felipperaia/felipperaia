@@ -106,10 +106,12 @@ Atualmente empregado e aberto a **freelas** e oportunidades **remotas** onde pos
 | [**Dentefier** · Frontend Web](https://github.com/felipperaia/Frontend-Dentefier) | HTML · CSS · JavaScript | Responsive web interface for the Dentefier system. Focus on usability and clean data presentation. |
 | [**Dentefier** · Mobile](https://github.com/felipperaia/Frontend-Dentefier-RN) | React Native · TypeScript | Cross-platform mobile app (iOS & Android) for the Dentefier ecosystem. |
 | [**FinanFluency**](https://github.com/felipperaia/FinanFluency) | PWA · CSS | Progressive Web App for personal finance management with an offline-first approach. |
-| [**Clínica**](https://github.com/felipperaia/Clinica) | Python | Appointment scheduling and patient management system for medical clinics. |
+| [**SentimentoIA** · Backend](https://github.com/felipperaia/Backend-SentimentoIA-Python) | Python · FastAPI · MongoDB | FastAPI REST backend for a digital reputation analysis platform. Dual MongoDB architecture, JWT auth, LLM-powered chatbot via Ollama, and endpoints for ingestion, metrics, insights, and reporting. |
+| [**SentimentoIA** · Frontend](https://github.com/felipperaia/Front-end-SentimentoIA) · [↗ Live](https://sentimento-ai.netlify.app/) | React · TypeScript | React interface consuming the FastAPI backend to visualize sentiment dashboards, mention feeds, AI-generated insights, and an integrated LLM chat. |
 | [**Machine-Learning**](https://github.com/felipperaia/Machine-Learning) | Python · Jupyter | Notebooks and experiments covering supervised learning, data analysis, and predictive modeling. |
-| [**Health-Care-Body**](https://github.com/felipperaia/Health-Care-Body-Stopped-Inactive) | Python | Health monitoring tool focused on body activity tracking and data-driven wellness insights. |
-| [**Aether OS**](https://github.com/felipperaia/Aether-OS) | Systems / Low-level | Experimental OS-level project exploring low-level systems design and architecture. |
+| [**Health-Care-Body - Private**](https://github.com/felipperaia/Health-Care-Body-Stopped-Inactive) | Python | Health monitoring tool focused on body activity tracking and data-driven wellness insights. |
+| [**Aether OS - Private**](https://github.com/felipperaia/Aether-OS) | Systems / Low-level | Experimental OS-level project exploring low-level systems design and architecture. |
+| [**Projeto-Athena - Private**](https://github.com/felipperaia/Aether-OS) | Python · Automation | Desktop system for assisted gameplay automation, with a complete pipeline for capture, inference, operational safety, demo collection, training (BC/PPO), distillation, and ONNX export. |
 
 </div>
 
